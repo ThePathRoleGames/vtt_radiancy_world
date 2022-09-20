@@ -1,9 +1,25 @@
 {
+  "name": "Radiancy World",
   "title": "Radiancy World",
   "id": "radiancy-world",
   "system": "dnd5e",
-  "description": "<p></p>",
+  "description": "<p>
+  Это мир где ночь наступает 1 раз в промежутке 5-30 дней и может длится до 2 дней. Ночью из всех щелей выползают различные монстры и устраивают охоту за людьми.
+  Мир в котором правят два эмира Султаната Таруун, вассалы Великого Султана Халаха Vi.
+  В мире где твои заслуги высекаются/выжигаются на твоем теле, хорошие на правом плече или боку, плохие на левом плече или на боку если руку отрубил за воровство.
+  Это жестокий мир песков в которых живут множество племен людей, орков, гоблинов, дварфов, куун. Все эти племена платят девширме - кровавый налог по которому часть мальчиков забирают на службу Султанату формируя полки янычаров и слуг. Для многих племен это благо так как позволяет занят им определенное положение и значит оказывать помощь племени.
+  Это мир где рабство считается нормой и даже поощряется.
+
+  </p>",
   "coreVersion": "10.285",
+   "version": 0.0.1,
+   “author”: [
+“Avataromvatar”,
+],
+  "manifest": "https://raw.githubusercontent.com/ThePathRoleGames/vtt_radiancy_world/master/world.json",
+  "download": "https://github.com/ThePathRoleGames/vtt_radiancy_world/archive/refs/tags/v0.0.1.zip",
+  "background": "https://tourjournal.ru/wp-content/uploads/Samye-zharkie-pustyni-v-mire.jpg",
+
   "compatibility": {
     "minimum": "10",
     "verified": "10"
