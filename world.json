@@ -1,29 +1,22 @@
 {
-  "name": "Radiancy World",
   "title": "Radiancy World",
   "id": "radiancy-world",
   "system": "dnd5e",
   "description": "<p></p>",
-  "coreVersion": "10.285",
-  "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "1.0.0",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "packs": [],
-  "languages": [],
-  "keywords": [],
-  "socket": false,
-   "version": "0.0.1",
-   "author": ["Avataromvatar"],
+  "coreVersion": "10.286",
+  "version": "0.0.1",
   "manifest": "https://raw.githubusercontent.com/ThePathRoleGames/vtt_radiancy_world/master/world.json",
   "download": "https://github.com/ThePathRoleGames/vtt_radiancy_world/archive/refs/tags/v0.0.1.zip",
   "background": "https://tourjournal.ru/wp-content/uploads/Samye-zharkie-pustyni-v-mire.jpg",
-
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "10.286"
   },
-  "nextSession": "",
-  "systemVersion": "2.0.2"
+  "systemVersion": "2.0.3",
+  "authors": [
+    {
+      "name": "Avataromvatar",
+      "flags": {}
+    }
+  ]
 }
