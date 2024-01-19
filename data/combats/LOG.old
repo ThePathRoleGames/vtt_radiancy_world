@@ -1,0 +1,7 @@
+2023/11/25-22:01:45.279706 313afb000 Recovering log #72
+2023/11/25-22:01:45.280051 313afb000 Delete type=3 #70
+2023/11/25-22:01:45.280090 313afb000 Delete type=0 #72
+2023/11/25-22:18:39.209530 30da7f000 Level-0 table #77: started
+2023/11/25-22:18:39.209635 30da7f000 Level-0 table #77: 0 bytes OK
+2023/11/25-22:18:39.209797 30da7f000 Delete type=0 #75
+2023/11/25-22:18:39.210254 30da7f000 Manual compaction at level-0 from '!combats!5HpSOV8aGxjs1wAQ' @ 72057594037927935 : 1 .. '!combats.combatants!5dVBe686dPQo9Lwx.xz143ouLWWgwLxH3' @ 0 : 0; will stop at (end)

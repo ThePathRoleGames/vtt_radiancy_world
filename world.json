@@ -1,22 +1,39 @@
 {
-  "title": "Radiancy World",
+  "title": "Radiancy World Part 1",
   "id": "radiancy-world",
   "system": "dnd5e",
   "description": "<p></p>",
-  "coreVersion": "10.286",
+  "coreVersion": "11.315",
   "version": "0.0.1",
   "manifest": "https://raw.githubusercontent.com/ThePathRoleGames/vtt_radiancy_world/master/world.json",
   "download": "https://github.com/ThePathRoleGames/vtt_radiancy_world/archive/refs/tags/v0.0.2.zip",
   "background": "https://tourjournal.ru/wp-content/uploads/Samye-zharkie-pustyni-v-mire.jpg",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10.286"
+    "minimum": "11",
+    "verified": "11.315"
   },
-  "systemVersion": "2.0.3",
+  "systemVersion": "2.4.0",
   "authors": [
     {
       "name": "Avataromvatar",
       "flags": {}
     }
-  ]
+  ],
+  "packs": [
+    {
+      "label": "Spell 1 Level",
+      "type": "Item",
+      "name": "spell-1-level",
+      "path": "packs/spell-1-level",
+      "system": "dnd5e",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "lastPlayed": "Sun Nov 26 2023 09:47:32 GMT+0400 (Samara Standard Time)",
+  "safeMode": false,
+  "playtime": 185312
 }

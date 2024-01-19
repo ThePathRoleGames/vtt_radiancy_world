@@ -1,0 +1,7 @@
+2023/11/25-22:01:45.278310 314af9000 Recovering log #74
+2023/11/25-22:01:45.278689 314af9000 Delete type=0 #74
+2023/11/25-22:01:45.278719 314af9000 Delete type=3 #72
+2023/11/25-22:18:39.182280 30da7f000 Level-0 table #80: started
+2023/11/25-22:18:39.182365 30da7f000 Level-0 table #80: 0 bytes OK
+2023/11/25-22:18:39.182511 30da7f000 Delete type=0 #78
+2023/11/25-22:18:39.209520 30da7f000 Manual compaction at level-0 from '!messages!2ZbMnApovDCP0z01' @ 72057594037927935 : 1 .. '!messages!vXDpeH9aMdDpA8jd' @ 0 : 0; will stop at (end)

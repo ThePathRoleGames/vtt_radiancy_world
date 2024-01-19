@@ -1,0 +1,14 @@
+2023/11/25-22:01:45.270992 313afb000 Recovering log #71
+2023/11/25-22:01:45.271407 313afb000 Delete type=0 #71
+2023/11/25-22:01:45.271437 313afb000 Delete type=3 #69
+2023/11/25-22:18:39.181635 30da7f000 Level-0 table #76: started
+2023/11/25-22:18:39.182005 30da7f000 Level-0 table #76: 728 bytes OK
+2023/11/25-22:18:39.182210 30da7f000 Delete type=0 #74
+2023/11/25-22:18:39.208697 30da7f000 Manual compaction at level-0 from '!cards!jbIrMbu8pH8gzOOc' @ 72057594037927935 : 1 .. '!cards.cards!jbIrMbu8pH8gzOOc.qHxyWTJrhaEiQyoE' @ 0 : 0; will stop at '!cards.cards!jbIrMbu8pH8gzOOc.qHxyWTJrhaEiQyoE' @ 7 : 1
+2023/11/25-22:18:39.208705 30da7f000 Compacting 1@0 + 1@1 files
+2023/11/25-22:18:39.208863 30da7f000 Generated table #77@0: 2 keys, 728 bytes
+2023/11/25-22:18:39.208869 30da7f000 Compacted 1@0 + 1@1 files => 728 bytes
+2023/11/25-22:18:39.208917 30da7f000 compacted to: files[ 0 1 0 0 0 0 0 ]
+2023/11/25-22:18:39.208946 30da7f000 Delete type=2 #76
+2023/11/25-22:18:39.208992 30da7f000 Delete type=2 #40
+2023/11/25-22:18:39.209861 30da7f000 Manual compaction at level-0 from '!cards.cards!jbIrMbu8pH8gzOOc.qHxyWTJrhaEiQyoE' @ 7 : 1 .. '!cards.cards!jbIrMbu8pH8gzOOc.qHxyWTJrhaEiQyoE' @ 0 : 0; will stop at (end)
