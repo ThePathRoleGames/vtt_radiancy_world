@@ -6,7 +6,7 @@
   "coreVersion": "11.315",
   "version": "0.0.1",
   "manifest": "https://raw.githubusercontent.com/ThePathRoleGames/vtt_radiancy_world/master/world.json",
-  "download": "https://github.com/ThePathRoleGames/vtt_radiancy_world/archive/refs/tags/v0.0.2.zip",
+  "download": "https://github.com/ThePathRoleGames/vtt_radiancy_world/archive/refs/tags/v0.0.3.zip",
   "background": "https://tourjournal.ru/wp-content/uploads/Samye-zharkie-pustyni-v-mire.jpg",
   "compatibility": {
     "minimum": "11",
